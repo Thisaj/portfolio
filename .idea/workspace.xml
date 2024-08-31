@@ -4,38 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="336da4b1-ac52-4664-9c36-4907db9d59a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/portofilio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="336da4b1-ac52-4664-9c36-4907db9d59a9" name="Changes" comment="Create columns, image, and description">
+      <change afterPath="$PROJECT_DIR$/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Contact_us.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +39,23 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.exercise 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/BiG/PycharmProjects/portofilio&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BiG/PycharmProjects/portofilio/images&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BiG\PycharmProjects\portofilio\images" />
       <recent name="C:\Users\BiG\PycharmProjects\portofilio" />
     </key>
   </component>
@@ -97,11 +76,42 @@
       <option name="presentableId" value="Default" />
       <updated>1724511982375</updated>
       <workItem from="1724511988935" duration="1090000" />
-      <workItem from="1724513103143" duration="834000" />
+      <workItem from="1724513103143" duration="1483000" />
+      <workItem from="1724668450625" duration="3914000" />
+      <workItem from="1724680799535" duration="3079000" />
+      <workItem from="1724683930092" duration="3669000" />
+      <workItem from="1725042347980" duration="2029000" />
+      <workItem from="1725112949550" duration="1483000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1724514215133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724514215133</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create columns, image, and description">
+      <option name="closed" value="true" />
+      <created>1724514258413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724514258413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Create columns, image, and description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create columns, image, and description" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/portofilio$exercise_1.coverage" NAME="exercise 1 Coverage Results" MODIFIED="1724670039746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/portofilio$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1724684012823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
